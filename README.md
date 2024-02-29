@@ -11,6 +11,12 @@ Here I will be writing blog posts about..
   - Analysis
   - Reversing
   - Development
+    - **Historical Malware Samples**
+      - EquationGroup
+        - Stuxnet
+        - Fanny.bmp
+        - Flame
+        - Duqu
 
 And a bit about my Zines I will soon be making!
 The Zines will be about ..
