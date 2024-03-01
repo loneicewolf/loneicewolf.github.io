@@ -29,7 +29,7 @@ Here I will be writing blog posts about..
 And a bit about my Zines I will soon be making!
 The Zines will be about ..
   - [ReverseShells](https://github.com/loneicewolf/ReverseShells)
-  - Cryptography
+  - Cryptography (Cryptanalysis,etc, challenges and methodologies,etc)
   - Malware
   - Reversing
   - Programming
