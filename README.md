@@ -1,8 +1,10 @@
 # loneicewolf.github.io
-# Heya! 💜 
-Right now I advice you to go to my [GitHub](https://github.com/loneicewolf) instead as this site is under construction 💜
+## Hello!
+
+Right now I advice you to go to my [GitHub](https://github.com/loneicewolf) instead as this site is under construction
 
 Here I will be writing blog posts about..
+
 - Binary Reverse Engineering
   - Patch/Inj/etc
 
