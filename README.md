@@ -1,11 +1,12 @@
 # loneicewolf.github.io
-## Hello!
+## Pre-Intro
 
-Right now I advice you to go to my [GitHub](https://github.com/loneicewolf) instead as this site is under construction
-
-Here I will be writing blog posts about..
-
+Right now I advice you to go to my [GitHub](https://github.com/loneicewolf) instead as this site is under construction.
 This (site) is now fuzzy(e.g text everywhere) - because I am still creating it!
+
+
+## Topics
+Here I will be writing blog posts about..
 
 `Debugging & Binary Reverse Engineering`
   - JTAG (HDD Firmware backdoor) <- A project I have been planning to document for more than a year.
