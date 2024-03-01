@@ -5,10 +5,14 @@ Right now I advice you to go to my [GitHub](https://github.com/loneicewolf) inst
 
 Here I will be writing blog posts about..
 
-- Binary Reverse Engineering
+This (site) is now fuzzy(e.g text everywhere) - because I am still creating it!
+
+`Debugging & Binary Reverse Engineering`
+  - JTAG (HDD Firmware backdoor) <- A project I have been planning to document for more than a year.
   - Patch/Inj/etc
 
-- My own Collection of [Reverse Shells](https://github.com/loneicewolf/ReverseShells)
+As well as My own Collection of [Reverse Shells](https://github.com/loneicewolf/ReverseShells)
+And the below topics;
 
 - Cryptanalysis
   - Classic
