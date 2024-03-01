@@ -38,5 +38,40 @@ The Zines will be about ..
   - Malware
   - Reversing
   - Programming
-  
+
+
+*****
+
+# SUBPAGES 🖥️
+
+## Malware
+- main blog topic: fanny.bmp (covering source, infection, vulns, rootkit, bugs, patch, on diff OS(win xp/etc))
+
+
+*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
