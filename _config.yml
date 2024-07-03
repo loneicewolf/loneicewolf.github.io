@@ -5,3 +5,9 @@ description: "my site indeed "
 background-color: black
 color: red
 style: center
+body {
+	font-size: 14px;
+	line-height: 1.5;
+	color: #660460;
+	background-color: #16001a;
+}
