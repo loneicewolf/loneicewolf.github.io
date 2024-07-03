@@ -2,6 +2,6 @@
 title: "my site"
 author: "someone"
 description: "my site indeed "
-bg: black
+background-color: black
 color: red
 style: center
