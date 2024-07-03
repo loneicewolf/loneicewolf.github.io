@@ -2,5 +2,9 @@
 title: "my site"
 author: "someone"
 description: "my site indeed "
-color: #660460;
-background-color: #16001a;
+
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0xc5c8c6'
