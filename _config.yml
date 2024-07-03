@@ -1,6 +1,7 @@
 # https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_config.yml
-title: my site
-author: someone
-description: my site indeed 
-page-col: "#000"
-background-col: "#000"
+title: "my site"
+author: "someone"
+description: "my site indeed "
+bg: white
+color: black
+style: center
