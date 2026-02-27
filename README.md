@@ -1,6 +1,8 @@
 ## Hii
 Hi! 
 💞I am Giving you who reads this, a heart ♥️
+- **My GitHub**: https://github.com/loneicewolf
+- **Bsky**: https://bsky.app/profile/loneicewolf.bsky.social
 
 ## Blogs 🌹
 I will be writing blogs here, about..
