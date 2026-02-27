@@ -1,75 +1,20 @@
-# loneicewolf.github.io
-## Pre-Intro
+## Hii
+Hi! 
+💞I am Giving you who reads this, a heart ♥️
 
-Right now I advice you to go to my [GitHub](https://github.com/loneicewolf) instead as this site is under construction.
-This (site) is now fuzzy(e.g text everywhere) - because I am still creating it!
-
-
-## Topics
-Here I will be writing blog posts about..
-
-`Debugging & Binary Reverse Engineering`
-  - JTAG (HDD Firmware backdoor) <- A project I have been planning to document for more than a year.
-  - Patch/Inj/etc
-
-As well as My own Collection of [Reverse Shells](https://github.com/loneicewolf/ReverseShells)
-And the below topics;
-
-- Cryptanalysis
-  - Classic
-  - Modern
-
-- Malware
-  - Analysis
-  - Reversing
-  - Development
-    - **Historical Malware Samples & Groups**
-        - Fanny.bmp
-        - Flame
-        - Duqu
-      - EquationGroup
-      - ShadowBrokers
-
-
-And a bit about my Zines I will soon be making!
-The Zines will be about ..
-  - [ReverseShells](https://github.com/loneicewolf/ReverseShells)
-  - Cryptography (Cryptanalysis,etc, challenges and methodologies,etc)
-  - Malware
-  - Reversing
-  - Programming
-
-
-*****
-
-# SUBPAGES 🖥️
-
-## Malware
-- main blog topic: fanny.bmp (covering source, infection, vulns, rootkit, bugs, patch, on diff OS(win xp/etc))
-
-
-*****
+## Blogs 🌹
+I will be writing blogs here, about..
+1. Japanese Language ( I am **learning Japanese** )
+2. My Life (I **stutter**, so I don't speak in real life, **I write on my phone instead of speaking** ^^~ )
+3. AI Art
+4. Stories! ( About Stuttering, AI Art, And stuff ^^~ )
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## TODO 💞
+- I want to translate this page into Japanese, so Japanese people can also read it 💞
+- I am now using Translation Tools ( GPT, Gemini, Claude, And Google Translate )
+- Any help is greatly appreciated!
 
 
 
