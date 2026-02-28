@@ -1,7 +1,1 @@
----
-layout: page
-title: "About Me"
-permalink: /about/
----
-
-hi
+# Heya!~
