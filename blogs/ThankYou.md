@@ -1,6 +1,8 @@
 # Thank You!
 This is a page I made for thanking my **favorite artists**. You are amazing! ♥️
 
+
+
 ---
 
 Thank You **mofulove-ai** for the very cute artworks you always make and post on your bsky. Every time I see them, they brighten my day. You were one of the first artists that inspired me in AI art.
@@ -18,3 +20,9 @@ Thank You **Marimocyan** for the wonderful inspiration, kindness, and motivation
 - [marimocyan - Bsky](https://bsky.app/profile/marimocyan.bsky.social)
 
 Thank you once more. Warmest wishes.
+
+
+---
+
+- [Go Back](site1.md)
+- [Go Back](site1)
