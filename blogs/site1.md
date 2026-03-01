@@ -11,3 +11,8 @@ I am right now, (2026~) starting to learn Japanese, because there is so many Art
 Who have been very supportive to me, and been very kind, and has given me a lot of inspiration and motivation into AI Art.
 
 
+
+-----
+### Other articles
+
+- [Thank You](ThankYou.md)
