@@ -23,5 +23,3 @@ Thank you once more. Warmest wishes.
 
 
 ---
-
-- [Go Back](site1.md)
