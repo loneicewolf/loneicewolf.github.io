@@ -19,6 +19,9 @@ I will be writing blogs here, about..
 - Any help is greatly appreciated!
 
 
+### Other Articles
+- [ThankYou](blogs/ThankYou.md)
+- [Site1](blogs/site1.md)
 
 
   
