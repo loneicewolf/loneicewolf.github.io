@@ -1,13 +1,16 @@
 # Analysis On AI-Hate
 _______________________________________________________________________________________________
+
 # NOTE
 ❤️‍🩹️ this page tries to explain for AI-Haters and people who hate on others, why Hating is Harmful.
+
 _______________________________________________________________________________________________
 
 This is my take on AI-Hate, and how to defend yourself from it.
 * ⚠️ NOTE: I will use the word "You" here, to denote "AI-HATER" so:
 * so, in this text, I Will be using this as a example: "YOU" = "AI-HATER"
 * so; I don't mean "you" as in "you who reads this"
+
 _______________________________________________________________________________________________
 
 
@@ -33,6 +36,7 @@ And, with all this, I say this - above as a impulsive person Myself. we all do m
 IF you can do that...Then you have won over, **ALL my respect. And more. And MANY more people's respect.**
 
 _______________________________________________________________________________________________
+
 ## About My life
 I am often on hospitals. for treatment, and examinations. Some are serious. Some are things I wouldn't wish on my worst enemy.
 AI, has been a saver for me here. To sit, in a recovery bed, doing nothing, just waiting for horrible side effects, or terrifying examinations, what do you do, if you only have a AI on a phone? Sure, you might be able to read some wikipedia page on something interesting..Sure you might be able to play a game..but..if you are alone? If you love Art as a topic?  I do AI-Art. And it is Art.
@@ -42,7 +46,9 @@ AI, has been a saver for me here. To sit, in a recovery bed, doing nothing, just
 ## It is cyber-stalking to seek out AI-Artists just to hate on them.
 (**Victims of Cyber-Stalking by the way, might go trough dark thoughts, because of YOUR BEHAVIOUR - would you feel sad if that would happen? Would you want to stop that from happening? What if it would be too late? Hence..The best solution here, is not to hate until its too late..it's to _Stop Hate When You Can. When? NOW._**)
 
+
 _______________________________________________________________________________________________
+
 
 A note on the word "slopper"
 * If you think "People using AI is sloppers! they dont think at all! they cant perform critical thinking!" and if you therefore call people sloppers:
@@ -74,6 +80,7 @@ If I can explain a reason to why this might have happened - Not as a excuse, but
 
 
 ____________________
+
 Written, by Janna
 
 -----
