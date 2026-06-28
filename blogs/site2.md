@@ -37,7 +37,7 @@ ________________________________________________________________________________
 I am often on hospitals. for treatment, and examinations. Some are serious. Some are things I wouldn't wish on my worst enemy.
 AI, has been a saver for me here. To sit, in a recovery bed, doing nothing, just waiting for horrible side effects, or terrifying examinations, what do they do, if they only have a AI on a phone? Sure, they might be able to read some wikipedia page on something interesting..Sure you might be able to play a game..but..if they are alone? If they love Art as a topic?  I do AI-Art. And it is Art.
 
-**If, for some reason, they think the idea of hating someone in this situation, is not cruel, then I am sad for they. I am sad, because they clearly never got empathy. And I hope someone gives they it. So they can learn, how cruel it is, to just label people as `SLOP` without even seeing the person.**
+**If, for some reason, they think the idea of hating someone in this situation, is not cruel, then I am sad for them. I am sad, because they clearly never got empathy. And I hope someone gives they it. So they can learn, how cruel it is, to just label people as `SLOP` without even seeing the person.**
 
 ## It is cyber-stalking to seek out AI-Artists just to hate on them.
 (**Victims of Cyber-Stalking by the way, might go trough dark thoughts, because of THEIR BEHAVIOUR - would they feel sad if that would happen? Would they want to stop that from happening? What if it would be too late? Hence..The best solution here, is not to hate until its too late..it's to _Stop Hate When they Can. When? NOW._**)
@@ -56,7 +56,7 @@ it is OKAY to dislike AI.
 Its a opinion. Its a choice...
 **HOWEVER** when it comes to hate and harassment..and **threats and targetted harassment** it's NOT okay.
 In fact, by doing so, they actually sink to a LOWER-LEVEL (Lower maturity) than the AI-Artists.
-And.. If they seek out(hunting) AI-Artists, or people who use AI, just to hate on them.. They are performing **CyberStalking**. Which is a **Reportable Crime**. So, not only for the sake of the Victims , for they own sake, don't cyberstalk others. It doesn't end well. I assure they.
+And.. If they seek out(hunting) AI-Artists, or people who use AI, just to hate on them.. They are performing **CyberStalking**. Which is a **Reportable Crime**. So, not only for the sake of the Victims , for their own sake, don't cyberstalk others. It doesn't end well. I assure them.
 
 # Final word
 Sorry for this. I just, I am, one, of many AI-Artists, which has gotten hate. I have even gotten threats at times. So I always have a choice:
