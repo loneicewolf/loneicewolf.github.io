@@ -1,6 +1,6 @@
 ### The Paradox of "Spite-Shaming": How toxic artists drive paying clients straight to AI.
 
-<img width="1876" height="797" alt="image" src="https://github.com/user-attachments/assets/f6ce7c27-cafc-4cb8-99d8-5e8004106c24" />
+<img width="2000" height="797" alt="image" src="https://github.com/user-attachments/assets/f6ce7c27-cafc-4cb8-99d8-5e8004106c24" />
 
 
 I used Gemini and Draw.io to complete this and did many drafts before posting. Gemini was a lifesaver to make it readable. This is an analysis on what happens when artists shame their customers for using AI as an idea-making tool.
