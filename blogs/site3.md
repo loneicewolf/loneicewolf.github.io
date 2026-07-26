@@ -2,7 +2,7 @@
 
 <img width="1876" height="797" alt="image" src="https://github.com/user-attachments/assets/b1fefda1-30e3-434b-8209-edfd19b34651" />
 
-Note: **click the diagram if your computer renders it weirdly**
+Note: **open-in-new-tab on the diagram if your computer renders it weirdly**
 
 
 I used Gemini and Draw.io to complete this and did many drafts before posting. Gemini was a lifesaver to make it readable. This is an analysis on what happens when artists shame their customers for using AI as an idea-making tool.
