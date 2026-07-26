@@ -1,6 +1,6 @@
 ### The Paradox of "Spite-Shaming": How toxic artists drive paying clients straight to AI.
 
-<img width="1876" height="797" alt="image" src="https://github.com/user-attachments/assets/b1fefda1-30e3-434b-8209-edfd19b34651" />
+<img width="1876" height="797" alt="image" src="A.png" />
 
 Note: **open-in-new-tab on the diagram if your computer renders it weirdly**
 
