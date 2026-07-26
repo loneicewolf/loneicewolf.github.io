@@ -23,6 +23,7 @@ I will be writing blogs here, about..
 - [ThankYou](blogs/ThankYou.md)
 - [Site1](blogs/site1.md)
 - [Site2 - On AI Hate](blogs/site2.md)
+- [Site3 - On Artists Hating AI Users](blogs/site3.md)
 
 
   
