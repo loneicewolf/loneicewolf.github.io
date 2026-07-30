@@ -16,14 +16,15 @@ I will be writing blogs here, about..
 ## TODO 💞
 - I want to translate this page into Japanese, so Japanese people can also read it 💞
 - I am now using Translation Tools ( GPT, Gemini, Claude, And Google Translate )
-- Any help is greatly appreciated!
+- Any help is greatly appreciated about translation! (if you know languages fluently, *without AI* tell me ♥️)
+
 
 
 ### Other Articles
 - [ThankYou](blogs/ThankYou.md)
-- [Site1](blogs/site1.md)
-- [Site2 - On AI Hate](blogs/site2.md)
-- [Site3 - On Artists Hating AI Users](blogs/site3.md)
+- [info](blogs/site1.md)
+- [blog - On AI Hate](blogs/site2.md)
+- [blog - On Artists Hating AI Users](blogs/site3.md)
 
 
   
