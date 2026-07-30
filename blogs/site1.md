@@ -15,8 +15,8 @@ Who have been very supportive to me, and been very kind, and has given me a lot 
 -----
 
 ### Other Articles
-- [ThankYou](blogs/ThankYou.md)
-- [info](blogs/site1.md)
-- [blog - On AI Hate](blogs/site2.md)
-- [blog - On Artists Hating AI Users](blogs/site3.md)
+- [ThankYou](ThankYou.md)
+- [info](site1.md)
+- [blog - On AI Hate](site2.md)
+- [blog - On Artists Hating AI Users](site3.md)
 
