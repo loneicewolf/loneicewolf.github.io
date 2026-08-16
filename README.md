@@ -1,30 +1,39 @@
-## Hii
-Hi! 
-💞I am Giving you who reads this, a heart ♥️
-- **My GitHub**: https://github.com/loneicewolf
-- **Bsky**: https://bsky.app/profile/loneicewolf.bsky.social
+# Hi there!
 
-## Blogs 🌹
-I will be writing blogs here, about..
-1. Japanese Language ( I am **learning Japanese** )
-2. My Life (I **stutter**, so I don't speak in real life, **I write on my phone instead of speaking** ^^~ )
-3. AI Art
-4. Stories! ( About Stuttering, AI Art, And stuff ^^~ )
+Welcome to my personal site! Sending a hug filled with love to anyone taking the time to read this ♥️
 
+---
 
+### Socials
+- **GitHub**: [@loneicewolf](https://github.com/loneicewolf)
+- **Bluesky**: [@loneicewolf.bsky.social](https://bsky.app/profile/loneicewolf.bsky.social)
 
-## TODO 💞
-- I want to translate this page into Japanese, so Japanese people can also read it 💞
-- I am now using Translation Tools ( GPT, Gemini, Claude, And Google Translate )
-- Any help is greatly appreciated about translation! (if you know languages fluently, *without AI* tell me ♥️)
+---
 
+## 🌹 Blogs & Topics
 
+Here you will find posts and thoughts about:
 
-### Other Articles
-- [ThankYou](blogs/ThankYou.md)
-- [info](blogs/site1.md)
-- [blog - On AI Hate](blogs/site2.md)
-- [blog - On Artists Hating AI Users](blogs/site3.md)
+* 🇯🇵 **Japanese Language** — Documenting my journey as a Japanese learner.
+* 📱 **My Life** — I stutter, so I choose not to speak in real life. Instead, I communicate by typing on my phone! `\(^.^)/`
+* 🎨 **AI Art** — Exploring creative prompts, tools, and digital art generation.
+* 📖 **Stories** — Short stories centered around stuttering, AI art, and personal experiences.
 
+---
 
-  
+## 📑 Articles & Posts
+
+- 💌 [Thank You](blogs/ThankYou.md)
+- ℹ️ [About This Site](blogs/site1.md)
+- 💭 [On AI Hate](blogs/site2.md)
+- 🎨 [On Artists & AI Users](blogs/site3.md)
+- ❤️‍🩹️ [blog - Spotting Bad-Faith & Manipulation in Projects](blogs/site4.md)
+
+---
+
+## 🎯 Goals & TODO 💞
+
+- [ ] Translate this page into Japanese so native speakers can read it.
+- [x] Currently using translation tools (*GPT, Gemini, Claude, and Google Translate*).
+
+> **Note:** Any human translation help is greatly appreciated! If you speak Japanese fluently without relying on AI, please feel free to reach out or open an issue! ♥️
