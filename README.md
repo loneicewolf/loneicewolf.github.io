@@ -34,6 +34,6 @@ Here you will find posts and thoughts about:
 ## 🎯 Goals & TODO 💞
 
 - [ ] Translate this page into Japanese so native speakers can read it.
-- [x] Currently using translation tools (*GPT, Gemini, Claude, and Google Translate*).
+- [x] Currently using translation tools (*GPT, Gemini, Claude, and Google Translate*) to turn my **Real Life Experiences** into **Readable Case Studies** for you the people who need to read how to handle toxicity and other thing.
 
 > **Note:** Any human translation help is greatly appreciated! If you speak Japanese fluently without relying on AI, please feel free to reach out or open an issue! ♥️
