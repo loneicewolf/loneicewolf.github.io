@@ -27,7 +27,10 @@ Here you will find posts and thoughts about:
 - ℹ️ [About This Site](blogs/site1.md)
 - 💭 [On AI Hate](blogs/site2.md)
 - 🎨 [On Artists & AI Users](blogs/site3.md)
-- ❤️‍🩹️ [blog - Spotting Bad-Faith & Manipulation in Projects](blogs/site4.md)
+
+#### Cyber Bullying Experiences
+- ❤️‍🩹️ [(Case Study) Spotting Bad-Faith & Manipulation in Projects](blogs/site4.md)
+- ❤️‍🩹️ [(Case Study) The Anatomy of a Smear Campaign: When Toxic People Lose Control](blogs/site5.md)
 
 ---
 
