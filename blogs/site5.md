@@ -1,6 +1,7 @@
 # Case Study: The Anatomy of a Smear Campaign: When Toxic People Lose Control
 This is based on a experience that occurred **a few years ago**. Why bring it up now?
-Well, when I wrote [this blog - Spotting Bad-Faith & Manipulation in Projects](https://loneicewolf.github.io/blogs/site4.html) It reminded me about **a few years ago** I had a experience that **I felt I just had to make a case study too.**
+Well, when I wrote [this blog - Spotting Bad-Faith & Manipulation in Projects](https://loneicewolf.github.io/blogs/site4.html) 
+It reminded me about the experience and.. Well, **I just felt I just had to make a case study on that too.**
 It is about smearing, half-truths, and propaganda-adjacent material.
 
 
