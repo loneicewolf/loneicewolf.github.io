@@ -1,10 +1,19 @@
-# https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_config.yml
-title: "my site"
-author: "someone"
-description: "my site indeed "
+# Jekyll Configuration File
+# Save this file as _config.yml in your repository root
 
+title: "loneicewolf // personal site"
+author: "loneicewolf"
+description: "Welcome to my personal site and thoughts."
+
+# If you are using a theme like Beautiful Jekyll, you can specify it here:
+# theme: beautiful-jekyll
+
+# Custom colors or site settings
 colors:
-  # Default colors
   primary:
-    background: '0x000000'
-    foreground: '0xc5c8c6'
+    background: '#090d16'
+    foreground: '#e2e8f0'
+
+# Optional GitHub Pages settings
+markdown: kramdown
+highlighter: rouge
