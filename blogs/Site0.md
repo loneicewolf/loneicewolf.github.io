@@ -1,4 +1,3 @@
-# 🌷️ NOT DONE YET 🌷️
 # Case Study: When Anti-Spam Bots Reject Real Humans
 
 ⚠️ Notes
