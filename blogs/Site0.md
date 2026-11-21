@@ -1,3 +1,6 @@
+# 🌷️ NOT DONE YET 🌷️
+
+
 # Case Study: When Anti-Spam Bots Reject Real Humans
 
 ⚠️ Note: This post contains certain trigger words like hospital-related terms. Not many, but just noting for the sensitive users.
@@ -20,7 +23,7 @@ Not because the TL was wrong. Not because a human found an issue. It was *instan
 
 
 
-Now, of course I could have just squashed it all - but it was a it extreme. Imagine, y
+Now, of course I could have just squashed it all - but it was a it extreme. Imagine, 
 
 
 
