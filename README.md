@@ -2,9 +2,9 @@
 
 Welcome to my personal site! Sending a hug filled with love to anyone taking the time to read this ♥️
 
-* **Gitub:** [loneicewolf](https://github.com/loneicewolf)
-* **Bluesky:** [loneicewolf.bsky.social](https://bsky.app/profile/loneicewolf.bsky.social)
+* **GitHub:** [loneicewolf](https://github.com/loneicewolf)
 * **Stack:** [Jane](https://stackexchange.com/users/16437611/jane?tab=top)
+* **Bluesky:** [loneicewolf.bsky.social](https://bsky.app/profile/loneicewolf.bsky.social)
 
 ---
 
