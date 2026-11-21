@@ -131,3 +131,10 @@ Sincerely yours,
 
 **Keywords**
 - [Manipulation,Contradictions,Toxic,Toxic-Workplace,fallacies,logical-fallacies,flawed-reasoning,burnout,guilt-tripping]
+
+
+-----
+
+# Other Articles
+
+{% include footer.html %}
