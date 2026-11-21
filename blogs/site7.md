@@ -100,6 +100,35 @@ And of course, neither was AI—the photo was taken on my phone, and I typed the
 I still obviously use Gemini. Why? Because, AI's just like humans(like myself) can do wrong. It has happened I have also fallen into this "Judging by the cover". When something happens fast for example, of course I get the "wait-is this only blindly copied AI? Or did they actually write it by hand?" And this is why I'm so careful right now because, it gets harder and harder to see what's AI and what's not.
 
 
+# A Tale of Two Bots: Why *what* Matters More Than *How*
+
+*Comparing The bot used by OpenWebUI and ComfyUI*
+
+Note: ⚠️ This is just a personal comparison. **Not to stir drama on one of them.**
+
+To show that rigid door-slamming isn't the only way forward I want to make a quick comparison to another huge open source project I use daily and that is **ComfyUI** Which I have to make blogs about too because I LOVE THE PROJECT.♥️
+
+I don't remember if it was same day or day before/after but, the PR I made that got bot-slammed I moved away from (after leaving constructive feedback on how that bot will drive away human contributors) and I wanted to compare it with a bot ComfyUI uses, namely 2 bots - which is `lin-bot23` and `Code-Rabbit`.
+
+## Code Rabbit 🌷️
+even though I left an optional local-script checkbox _un-checked_, and pushed a 2nd commit, `Code Rabbit` didn't close my PR, or even slammed a door in my face, instead, it actually `read` my English rewording, left a genuinely **helpful** feedback (apart from the other PR, which was destructive-ish feedback in my case - because taking into the account of the stuff I shared above) - and we team-worked, and it tagged a human-reviewer to read it. This was my first real bot-interaction on GitHub I think. And...Wow. I loved it.
+
+<img width="1244" height="1048" alt="image" src="https://github.com/user-attachments/assets/9f79c95e-7132-4125-bd92-153d55df8cd4" />
+
+This is a example on how a bot should behave. 
+- Give the user a warm greeting (okay, this might be optional but a plus!)
+- Give feedback to the user, instead of slamming them in the face.
+- Give the user time to fix - just like code rabbit here does - instead of **destructively closing the PR** - what if the user just made a small typo?? Closing that PR for a typo is..Extreme.
+
+## Lin-Bot23 🌷️
+Greeted me warmly by name (with a emoji!) it's these...Small things you know? It's really these small things that make one happy 🥹️ One might think "is a emoji really that big deal?" For me it is because I write emojis often in my messages, (I stutter so I always express myself differently, it's a (bad??) habit I have, so yeah!) - it explained the front end, how Swedish isn't here yet in the repo, but **it wants me to keep the issue open because it might get added later, by someone else who has started a (full_translation) of the language**.
+
+That is the difference.
+One system judges HOW. (OpenWebUI's bot (which also was called, believe it or not, "terminator" 💀️ I mean I just went *...uh heelooo?* The irony. A bot with a terminator pfp too. (and terminator for those who dont know is a *cyborg*.))
+Another system judges WHAT. (ComfyUI and **many other repos I have contributed to!**)
+
+
+
 ---
 Thank you for reading. ♥️ It means a lot. Please, I have one favor I'd like from you who read this:
 
