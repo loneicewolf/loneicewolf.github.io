@@ -13,8 +13,11 @@ Instead of being welcomed, they got hit with? Suspicion of A.I.
 6. The contributor calmly clarifies they've been doing TL for years. And that of course they follow the guidelines.
 7. The maintainer silently closes the PR anyway-saying they will "think about it internally with teams"
 
-And..Here I thought I was alone in the "did you use AI for this?" jab. Even professionals gets hit with them!
+# Personal Conflict
+I actually wanted to step in because it looked so toxic. Especially toward such a kind person - but I was afraid to stir up drama, which I always try to either: Avoid or Decrease. **I also tried to see it from the actual contributors perspective**: even if my comment would be well-meaning - jumping into a closed thread might make it awkward for them - (we dont know each other so it would make it a bit weird.), And of course, its also good to keep in mind, this is **GitHub** - Not SNS.
 
+## Conclusion
+And..Here I thought I was alone in the "did you use AI for this?" jab. Even professionals gets hit with them! It's..sad. Tragic.
 
 -----
 
