@@ -111,6 +111,7 @@ To show that rigid door-slamming isn't the only way forward I want to make a qui
 I don't remember if it was same day or day before/after but, the PR I made that got bot-slammed I moved away from (after leaving constructive feedback on how that bot will drive away human contributors) and I wanted to compare it with a bot ComfyUI uses, namely 2 bots - which is `lin-bot23` and `Code-Rabbit`.
 
 ## Code Rabbit 🌷️
+- see the [PR here](https://github.com/Comfy-Org/embedded-docs/pull/236)
 even though I left an optional local-script checkbox _un-checked_, and pushed a 2nd commit, `Code Rabbit` didn't close my PR, or even slammed a door in my face, instead, it actually `read` my English rewording, left a genuinely **helpful** feedback (apart from the other PR, which was destructive-ish feedback in my case - because taking into the account of the stuff I shared above) - and we team-worked, and it tagged a human-reviewer to read it. This was my first real bot-interaction on GitHub I think. And...Wow. I loved it.
 
 <img width="1244" height="1048" alt="image" src="https://github.com/user-attachments/assets/9f79c95e-7132-4125-bd92-153d55df8cd4" />
@@ -121,11 +122,12 @@ This is a example on how a bot should behave.
 - Give the user time to fix - just like code rabbit here does - instead of **destructively closing the PR** - what if the user just made a small typo?? Closing that PR for a typo is..Extreme.
 
 ## Lin-Bot23 🌷️
+- See the [Issue here](https://github.com/Comfy-Org/embedded-docs/issues/237)
 Greeted me warmly by name (with a emoji!) it's these...Small things you know? It's really these small things that make one happy 🥹️ One might think "is a emoji really that big deal?" For me it is because I write emojis often in my messages, (I stutter so I always express myself differently, it's a (bad??) habit I have, so yeah!) - it explained the front end, how Swedish isn't here yet in the repo, but **it wants me to keep the issue open because it might get added later, by someone else who has started a (full_translation) of the language**.
 
-That is the difference.
-One system judges HOW. (OpenWebUI's bot (which also was called, believe it or not, "terminator" 💀️ I mean I just went *...uh heelooo?* The irony. A bot with a terminator pfp too. (and terminator for those who dont know is a *cyborg*.))
-Another system judges WHAT. (ComfyUI and **many other repos I have contributed to!**)
+## This is the difference
+- ❌️ One system judges [HOW](https://github.com/open-webui/open-webui/pull/34765).  (OpenWebUI's bot (which also was called, believe it or not, "terminator" 💀️ I mean I just went *...uh heelooo?* The irony. A bot with a terminator pfp too. (and terminator for those who dont know is a *cyborg*.))
+- ✅️ Another system judges WHAT.[[1](https://github.com/Comfy-Org/embedded-docs/pull/236),[2](https://github.com/Comfy-Org/embedded-docs/issues/237)] (ComfyUI and **many other repos I have contributed to!**)
 
 
 
