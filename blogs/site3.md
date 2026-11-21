@@ -33,3 +33,10 @@ By turning a private business transaction into viral content, the artist is runn
 I do not encourage anything malicious mentioned here. I do not encourage un-ethical training without consent, and I do not encourage bullying. What I am saying is that this toxic approach actively drives people to train LoRAs without consent. This cycle should not be a shock to the artists who engage in it. 
 
 Thanks for reading.
+
+
+-----
+
+# Other Articles
+
+{% include footer.html %}
