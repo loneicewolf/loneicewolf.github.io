@@ -1,0 +1,15 @@
+<hr>
+<p>Written, by Janna</p>
+<hr>
+
+<h3>Other articles</h3>
+<ul>
+  <li><a href="/">🏠 Home</a></li>
+  {% for p in site.pages %}
+    {% if p.path contains "blogs/" and p.url != page.url and p.name != "A.png" %}
+      <li>
+        <a href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
