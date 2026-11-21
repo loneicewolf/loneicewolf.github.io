@@ -93,7 +93,7 @@ Even running it through Reductio ad Absurdum doesn't solve it: what if 11th PR s
 Spam is a real problem. And the fact that AI cant be distinguished between real stuff is also a problem. And this happened to me actually, I took a daring approach to see how "bad/good" AI-Detection tools are. I am a cancer survivor, so I have a port-a-cath in a jar. I photo'd it. And I uploaded it. Guess what? **It was marked as `most likely AI`** which...to me I don't know what I thought at that time? imagine it for a second. AI Detection tools are so bad, one time I wrote a letter, and I told Gemini(`[!]`Which I actually personally like `[!]`) "was this letter written by an A.I?" and...Gemini said Yes.
 
 
-And of course, neither was AI—the photo was taken on my phone, and I typed the letter myself
+And of course, neither was AI-the photo was taken on my phone, and I typed the letter myself
 
 
 ## Key TakeAway
@@ -135,7 +135,7 @@ Greeted me warmly by name (with a emoji!) it's these...Small things you know? It
 # Problem Solving Analysis on OpenWebUI's Bot
 1. The [Einstellung](https://en.wikipedia.org/wiki/Einstellung_effect) Effect (Blindness by Habit): In psychology, this happens when a person or an automated system gets so locked into a rigid rule that it becomes blind to an obvious, better solution. Because the bot is hard-coded to check for commits(which by the way is such a odd thing to check??) as a threat it completely misses the simple reality: **a tiny, harmless 137-line translation on a quiet weekend that could have been merged with one click. OR if it wasn't wanted, closed because of the contents. Not because of `how` i did it.**
 
-2. The [XY Problem](https://en.wikipedia.org/wiki/XY_problem) (Solving the Wrong Thing): This happens when people obsess over a specific, rigid method (Y) instead of their actual goal (X). Here, the real goal (X) is keeping low effort AI spam("slop") out of the repo. Instead of checking the actual quality of the changes, **the bot enforces an arbitrary proxy (Y: strict commit limits and fragile regex checks on checkboxes)—accidentally blocking real humans while missing the bigger picture.**
+2. The [XY Problem](https://en.wikipedia.org/wiki/XY_problem) (Solving the Wrong Thing): This happens when people obsess over a specific, rigid method (Y) instead of their actual goal (X). Here, the real goal (X) is keeping low effort AI spam("slop") out of the repo. Instead of checking the actual quality of the changes, **the bot enforces an arbitrary proxy (Y: strict commit limits and fragile regex checks on checkboxes) accidentally blocking real humans while missing the bigger picture.**
 
 3. [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) (When a measure becomes a target, it ceases to be a good measure): Keeping pull requests small and tidy is a great guideline for clean git history. The moment a bot turns "5 commits or fewer" (which is **A CRAZY AMOUNT**) into a strict pass/fail switch, it stops measuring whats inside of the contrib. And starts punishing careful, incremental human work...
 
