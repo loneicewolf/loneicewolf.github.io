@@ -74,3 +74,12 @@ _IF I knew, that i had hated or bullied someone, I Would want to apologize to th
 ____________________
 
 Written, by Janna
+
+
+
+-----
+
+# Other Articles
+
+{% include footer.html %}
+
