@@ -9,7 +9,11 @@ Welcome to my personal site! Sending a hug filled with love to anyone taking the
 ---
 
 ## 🌹 Blogs
-Here I write about **🇯🇵 Japanese**, **📱 my life (stuttering & typing to communicate)**, **🎨 AI art**, and **📖 short stories**.
+Here I write about 
+- **🇯🇵 Japanese**
+- **📱 my life (as a stutterer & my daily struggle to communicate)**
+- **🎨 AI art**
+- **📖 short stories**.
 
 {% include footer.html %}
 
