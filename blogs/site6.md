@@ -14,3 +14,10 @@ Instead of being welcomed, they got hit with? Suspicion of A.I.
 7. The maintainer silently closes the PR anyway-saying they will "think about it internally with teams"
 
 And..Here I thought I was alone in the "did you use AI for this?" jab. Even professionals gets hit with them!
+
+
+-----
+
+# Other Articles
+
+{% include footer.html %}
