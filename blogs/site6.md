@@ -9,7 +9,7 @@ Instead of being welcomed, they got hit with? Suspicion of A.I.
 1. A contributor shows up & offers real, working translations.
 2. A maintainer says "we dont want it done this way, we want it done in way x"
 3. The contributor **actually follows that instruction** and "doing it in way x"
-4. Here, instead of it getting merged or even progressed forward - the contributor gets hit with "Did you use AI for this? We dont care if the output is actually great. We want human written responses." -# (Which reminds me of StackOverflows AI policy - even if the content is good, if it's AI? Bad. Very black/white thinking, really.)
+4. Here, instead of it getting merged or even progressed forward - the contributor gets hit with "Did you use AI for this? We dont care if the output is actually great. We want human written responses." <sup>(Which reminds me of StackOverflows AI policy - even if the content is good, if it's AI? Bad. Very black/white thinking, really.)<sup>
 6. The contributor calmly clarifies they've been doing TL for years. And that of course they follow the guidelines.
 7. The maintainer silently closes the PR anyway-saying they will "think about it internally with teams"
 
