@@ -74,9 +74,3 @@ _IF I knew, that i had hated or bullied someone, I Would want to apologize to th
 ____________________
 
 Written, by Janna
-
------
-### Other articles
-
-- [Thank You](ThankYou.md)
-- [Site1](site1.md)
