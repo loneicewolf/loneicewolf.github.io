@@ -15,9 +15,6 @@ Who have been very supportive to me, and been very kind, and has given me a lot 
 
 -----
 
-### Other Articles
-TODO: fix this.
-- link
-- link
-- link
+# Other Articles
 
+{% include footer.html %}
