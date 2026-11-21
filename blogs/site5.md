@@ -58,3 +58,11 @@ Smear campaigns are exhausting, but they are also fragile. They rely entirely on
 **Footnotes**
 1. Sometimes you have to do things that is a dilemma or a trilemma.
 2. Sometimes you have to do hard choices. And, we do them not because they are easy, but **because they are hard**.
+
+
+
+-----
+
+# Other Articles
+
+{% include footer.html %}
