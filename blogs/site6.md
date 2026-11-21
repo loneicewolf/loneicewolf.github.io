@@ -3,7 +3,9 @@
 ⚠️ Note: this is *not* about me, it's about someone else.
 
 Some day ago I submitted a fairly small, insignificant Swedish translation fix to a github project. The maintainers there were super kind. 
-The next day though, confused me greatly. It wasn't about anything I had contributed to, it was a totally different repo. I stumbled across something that genuinely shocked me. A contributor, which had many many years of TL experience - had submitted a PR to a Repo.
+The next day though, confused me greatly. It wasn't about anything I had contributed to, it was a totally different repo. 
+I stumbled across something that genuinely shocked me. 
+A contributor - (not me!) - which had many many years of TL experience - had submitted a PR to a Repo.
 
 Instead of being welcomed, they got hit with? Suspicion of A.I.
 
