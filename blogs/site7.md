@@ -132,9 +132,21 @@ Greeted me warmly by name (with a emoji!) it's these...Small things you know? It
 
 
 ---
-Thank you for reading. ♥️ It means a lot. Please, I have one favor I'd like from you who read this:
+# A note to the humans
 
-You made it this far, spent your energy reading my ramblings, and so, please take care of yourself now and do something you *genuinely* enjoy. Thanks once more, Good night. 🌷️ <sub> janna </sub>
+First of all, if OpenWebUI's staff is reading this, I am not mad at anyone, or at you or at anything, I am just - *analysing the dynamic* It's what I do. Like my other blogs. It's how I learn and improve as a human.
+
+
+**And to the random people who read this:**
+You chose to spend your energy reading my ramblings, and for that, you have earned 100% of my respect and admiration. Thank You. 🌷️
+Thank you for reading. ♥️ It means a lot. Please, I have one *last* favor I'd like from you who read this:
+
+please take care of yourself now and do something you *genuinely* enjoy. 
+
+Thanks once more,
+Good night. 
+
+<sub>janna🌷️</sub>
 
 -----
 
