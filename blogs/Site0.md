@@ -20,7 +20,7 @@ Why? That is what this blog is about.
 Not because the TL was wrong. Not because a human found an issue. It was *instantly* rejected over 2 rigid automated checks:
 
 1. **Too many commits** (10 instead of the `max` 5 or something): cuz I had saved my progress incrementally as I translated it (as I always do, by hand, I am afraid of losing progress, because sometimes my hands are weak/shaky due to IV treatment at hospital) 
-2. **Bold text broke the bot**: I *did* check the eligibility box [`- x`] because my PR *did* qualify as an `i18n-only` update. But because part of the sentence had `**bold**` Markdown around it (Why? because I wanted to make it clear that it was JUST a Lang-PR.) Apparently? That was enough for breaking a the poor bots parser. And it accused me of leaving the box unchecked. And? **Closed the PR.** Oh and of course it also told me to make a new PR fixing those things :)
+2. **Bold text broke the bot**: I *did* check the eligibility box [`- x`] because my PR *did* qualify as an `i18n-only` update. But because part of the sentence had `**bold**` Markdown around it (Why? because I wanted to make it clear that it was JUST a Lang-PR.) Apparently? That was enough for breaking the poor bot's parser. And it accused me of leaving the box unchecked. And? **Closed the PR.** Oh and of course it also told me to make a new PR fixing those things :)
 
 
 Own cite from this: *Thank god it was just a small Readme, and not a huge Readme or something way huger*
@@ -49,8 +49,8 @@ How on earth do I know a issue wont be closed just like my PR was?
 Was the bot proportionate in *this* case?
 
 The small change I did. 
-- A readme button for swedish.
-- A swedish `readme` file.
+- A readme button for Swedish.
+- A Swedish `readme` file.
 - 10 commits.
 - 137 lines added.
 That was all. not even 500 lines. **137 Lines.** It's tiny. Most readmes for smaller projects might be around 2 or 3 hundred.
@@ -74,7 +74,7 @@ This is what it does:
 ## Connection To Evolutionary Biology
 This is like natural selection. You are only welcome IFF(If And Only IF):
 - Perfect in terms of no bad eyes/eyesight or shaky-hands(so you have to save each progress out of habit)
-- You will happily without complaining<sup>(because otherwise it breaks the contributing_rules of "respectfulness" at their discretion)<sup> go trough "git-hoops" <sup>(which may or may not be worth it in the end!)<sup> like, perfect the PR template, perfect everything.
+- You will happily without complaining<sup>(because otherwise it breaks the contributing_rules of "respectfulness" at their discretion)</sup> go through "git-hoops" <sup>(which may or may not be worth it in the end!)</sup> like, perfect the PR template, perfect everything.
 
 
 
@@ -85,7 +85,7 @@ NOTE: each one of those if alone would not be a problem.
 
 # Reductio ad Absurdum
 For people who know I am a fan of logical-fallacy-analysis:
-Even running it trough Reductio ad Absurdum doesn't solve it: what if 11th PR stay open and the maintainer says "Actually I dont need this! Thanks anyway!" 🌷️ You can imagine how *flawed* this system is.
+Even running it through Reductio ad Absurdum doesn't solve it: what if 11th PR stay open and the maintainer says "Actually I dont need this! Thanks anyway!" 🌷️ You can imagine how *flawed* this system is.
 **Even the rare times it "works!"**
 
 
@@ -103,7 +103,7 @@ I still obviously use Gemini. Why? Because, AI's just like humans(like myself) c
 ---
 Thank you for reading. ♥️ It means a lot. Please, I have one favor I'd like from you who read this:
 
-You made it this far, spent your energy reading my ramblings, and so, please take care of yourself now and do something you *genuinely* enjoy. Thanks once more, Good night. 🌷️ <sub> janna <sub>
+You made it this far, spent your energy reading my ramblings, and so, please take care of yourself now and do something you *genuinely* enjoy. Thanks once more, Good night. 🌷️ <sub> janna </sub>
 
 -----
 
