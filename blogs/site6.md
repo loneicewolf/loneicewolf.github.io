@@ -3,19 +3,21 @@
 
 ⚠️ Notes:
 
-> this is **not** about me, it's about **someone else**.
->>  Update`[22 Nov]`: after re-reading it, it seems like the person(the contributor*) *might* actually have used AI, despite agreeing to the "No AI" guidelines - **NOTE**: I don't know for sure - & - this links back well to my other blogs about the idea that *stuff is difficult to see if its AI or not*
+> Note: This is not about me; it's about someone else.
+>> Update [22 Nov]: After re-reading it, it seems like the contributor might have actually used AI, despite agreeing to the "No AI" guidelines. (Note: I don't know for sure - and this links back well to my other blogs about how difficult it is to tell if something is AI or not.)
+> After this update, here is my view on the situation:
 
-> My view on it is this after the update:
->> IF it was AI, despite the contributor "understanding & complying" with the "NO AI" guidelines, the contributor was obviously wrong.
->> IF it was NOT AI, then the maintainer had moved the goalposts and wasted the contributors time.
->>> Though, a note: it's probably not as binary as it sounds: because even if AI was used, it **still was moving the goalposts**,
->>>> Now - last thing - to be fair, one could say "AI or Not - to tell a user to do X, and then when they do X, close the PR because `we arent sure to accept localizations right now`" because **obviously, IF THAT was the problem, why did the maintainer say "do X"?** So, in some sense, my conclusion is:
+> * If it was AI: Despite claiming to understand and comply with the "No AI" guidelines, the contributor was obviously in the wrong.
+> * If it was not AI: The maintainer moved the goalposts and wasted the contributor's time.
+
+> That said, it's probably not as binary as it sounds. Even if AI was used, the maintainer still moved the goalposts.
+> To be fair, whether AI was used or not, telling a user to "do X" and then closing their PR because "we aren't sure about accepting localizations right now" doesn't add up. If that was the real issue, why tell the contributor to do X in the first place?
+> So, in a sense, my conclusion is below.
 
 
 <div align="center">
   
-  # Conclusion
+  <h1>Conclusion</h1>
   
   EVEN if the contributor used AI, the maintainer wasn't better. [They moved the goalposts](https://en.wikipedia.org/wiki/Moving_the_goalposts). If the maintainer thought it was AI and didn't want it all rewritten in the way the contributor had just done - close it because of that. **Do NOT waste the contributors time**. Because *it is a chance they did NOT use AI too* Which means they spent *days* working on this just to get it closed over a broad "Prolly AI" clause.
 
@@ -49,15 +51,11 @@ Instead of being welcomed, they got hit with? Suspicion of A.I.
 I actually wanted to step in because it looked so toxic. Especially toward such a kind person - but I was afraid to stir up drama, which I always try to either: Avoid or Decrease. **I also tried to see it from the actual contributors perspective**: even if my comment would be well-meaning - jumping into a closed thread might make it awkward for them - (we dont know each other so it would make it a bit weird.), And of course, its also good to keep in mind, this is **GitHub** - Not SNS.
 
 
-## Conclusion
-And..Here I thought I was alone in the "did you use AI for this?" jab. Even professionals gets hit with them! It's..sad. Tragic.
+## Personal Notes
 
-
-> [!IMPORTANT]
-> Read my update above: THIS is why you should never step in to defend X or Y, because, what if they did use AI?
-
-> Personal Note:
->> even if I personally use AI daily - **[I am OPEN and TRANSPARENT about it!](https://bsky.app/profile/loneicewolf.bsky.social)** Hiding AI is my worst enemy. Truly. Because it has made so many problems with AI hate.
+- Read my update above this is why you should never step in to defend someone in these situations. What if they did use AI?
+- Even though I personally use AI daily, I am OPEN and TRANSPARENT about it. Hiding AI usage is my biggest nightmare, because it fuels so much unnecessary AI hate.
+- Key citation: *And here I thought I was alone in getting hit with the "did you use AI for this?" jab. Even professionals deal with it. It's sad, it's tragic, really.*
 
 -----
 
