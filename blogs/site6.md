@@ -41,8 +41,16 @@ Instead of being welcomed, they got hit with? Suspicion of A.I.
 # Personal Conflict
 I actually wanted to step in because it looked so toxic. Especially toward such a kind person - but I was afraid to stir up drama, which I always try to either: Avoid or Decrease. **I also tried to see it from the actual contributors perspective**: even if my comment would be well-meaning - jumping into a closed thread might make it awkward for them - (we dont know each other so it would make it a bit weird.), And of course, its also good to keep in mind, this is **GitHub** - Not SNS.
 
+
 ## Conclusion
 And..Here I thought I was alone in the "did you use AI for this?" jab. Even professionals gets hit with them! It's..sad. Tragic.
+
+
+> [!IMPORTANT]
+> Read my update above: THIS is why you should never step in to defend X or Y, because, what if they did use AI?
+
+> Personal Note:
+>> even if I personally use AI daily - **[I am OPEN and TRANSPARENT about it!](https://bsky.app/profile/loneicewolf.bsky.social)** Hiding AI is my worst enemy. Truly. Because it has made so many problems with AI hate.
 
 -----
 
