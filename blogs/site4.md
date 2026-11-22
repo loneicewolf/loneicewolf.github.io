@@ -113,6 +113,8 @@ Sincerely yours,
 [Your Name]
 ```
 
+keywords: [manipulation,analysis,**Einstellung effect**,fallacy]
+
 # Other Articles
 
 {% include footer.html %}
