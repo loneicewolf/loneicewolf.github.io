@@ -19,10 +19,13 @@
   
   <h1>Conclusion</h1>
   
-  EVEN if the contributor used AI, the maintainer wasn't better. [They moved the goalposts](https://en.wikipedia.org/wiki/Moving_the_goalposts). If the maintainer thought it was AI and didn't want it all rewritten in the way the contributor had just done - close it because of that. **Do NOT waste the contributors time**. Because *it is a chance they did NOT use AI too* Which means they spent *days* working on this just to get it closed over a broad "Prolly AI" clause.
+  EVEN if the contributor used AI, the maintainer wasn't better. They moved the goalposts[1]. If the maintainer thought it was AI and didn't want it all rewritten in the way the contributor had just done - close it because of that. **Do NOT waste the contributors time**. Because *it is a chance they did NOT use AI too* Which means they spent *days* working on this just to get it closed over a broad "Prolly AI" clause.
 
   
 </div>
+
+- Resources Used
+1. https://en.wikipedia.org/wiki/Moving_the_goalposts
 
 
 Alright, with that out of the way, lets begin.
