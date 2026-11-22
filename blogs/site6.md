@@ -19,7 +19,7 @@
   
   <h1>Conclusion</h1>
   
-  EVEN if the contributor used AI, the maintainer wasn't better. They moved the goalposts[https://en.wikipedia.org/wiki/Moving_the_goalposts]. If the maintainer thought it was AI and didn't want it all rewritten in the way the contributor had just done - close it because of that. Do NOT waste the contributors time. Because it is a chance they did NOT use AI too Which means they spent days working on this just to get it closed over a broad "Prolly AI" clause.
+  EVEN if the contributor used AI, the maintainer wasn't better. They moved the goalposts. If the maintainer thought it was AI and didn't want it all rewritten in the way the contributor had just done - close it because of that. Do NOT waste the contributors time. Because it is a chance they did NOT use AI too Which means they spent days working on this just to get it closed over a broad "Prolly AI" clause.
 
   
 </div>
@@ -56,8 +56,11 @@ I actually wanted to step in because it looked so toxic. Especially toward such 
 - Read my update above this is why you should never step in to defend someone in these situations. What if they did use AI?
 - Even though I personally use AI daily, I am OPEN and TRANSPARENT about it. Hiding AI usage is my biggest nightmare, because it fuels so much unnecessary AI hate.
 - Key citation: *And here I thought I was alone in getting hit with the "did you use AI for this?" jab. Even professionals deal with it. It's sad, it's tragic, really.*
+- Resources used: https://en.wikipedia.org/wiki/Moving_the_goalposts
+
 
 -----
+
 
 # Other Articles
 
